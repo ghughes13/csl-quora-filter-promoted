@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Filter Promoted - Reddit</h3>
+  <h3 align="center">Filter Promoted - Quora</h3>
 
   <p align="center">
     An easy way to hide promoted posts on reddit. 

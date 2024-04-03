@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Filter Promoted - Reddit",
-  "description": "Hides all promoted posts an reddit.",
+  "name": "Filter Promoted - Quora",
+  "description": "Hides all promoted posts an Quora.",
   "version": "1.0.0",
   "author": {
     "email": "CybershiftLabs@gmail.com"
@@ -14,7 +14,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.reddit.com/*", "*://reddit.com/**"],
+      "matches": ["*://*.quora.com/*", "*://quora.com/**"],
       "js": ["scripts/content.js"]
     }
   ],
