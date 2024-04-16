@@ -7,10 +7,10 @@
     "email": "CybershiftLabs@gmail.com"
   },
   "icons": {
-    "16": "images/FilterPromoted-16x16.png",
-    "32": "images/FilterPromoted-32x32.png",
-    "48": "images/FilterPromoted-48x48.png",
-    "128": "images/FilterPromoted-128x128.png"
+    "16": "images/FilterPromoted-Quora-16x16.png",
+    "32": "images/FilterPromoted-Quora-32x32.png",
+    "48": "images/FilterPromoted-Quora-48x48.png",
+    "128": "images/FilterPromoted-Quora-128x128.png"
   },
   "content_scripts": [
     {
@@ -19,7 +19,7 @@
     }
   ],
   "action": {
-    "default_icon": "images/FilterPromoted.png"
+    "default_icon": "images/FilterPromoted-Quora-full.png"
   },
   "permissions": ["activeTab", "scripting"]
 }
